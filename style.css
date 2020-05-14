@@ -7,7 +7,14 @@ body {
 /* Tag selector to select all 'div' elements. We only have one 'div' in our HTML */
 div {
   /* Your code here! */
-  
+   max-width: 700px;
+  margin: auto;
+  font-family: "Helvetica Neue";
+  background-color: white;
+  padding-right: 30px;
+  font-size: 22px;
+  font-style: italic;
+ 
 }
 
 /* ID selector to select the element with id 'main-header' */
