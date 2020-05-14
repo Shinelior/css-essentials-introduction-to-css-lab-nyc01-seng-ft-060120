@@ -12,7 +12,7 @@ div {
   font-family: "Helvetica Neue";
   background-color: white;
   padding-right: 30px;
-  font-size: 22px;
+  
  
  
 }
@@ -20,6 +20,7 @@ div {
 /* ID selector to select the element with id 'main-header' */
 #main-header {
   /* Your code here! */
+  
   color:red;
 }
 
